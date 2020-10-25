@@ -1,4 +1,4 @@
-package com.study.day02
+package com.study.day02.array
 
 import scala.collection.mutable.ArrayBuffer
 
